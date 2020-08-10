@@ -1,13 +1,16 @@
-### Hi there, I'm Mackie
+### Hi there, I'm Mackie 👋
 
 ## I'm a Husband, Father, Developer and Teacher
-- I'm currently working on a book
-- I'm currently learning everything
-- I'm looking to collaborate with others
-- 2020 Goals: Contribute more to Open Source Projects
-- Fun fact: I love to draw and play guitar/drums
+- 🔭 I'm currently working on a book
+- 🌱 I'm currently learning everything 🤣
+- 👯 I'm looking to collaborate with others
+- 🥅 2020 Goals: Contribute more to Open Source Projects
+- ⚡Fun fact: I love to draw and play guitar
 
 ### Connect with me:
+
+[<img align="left" alt="markacebedo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="markacebedo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 

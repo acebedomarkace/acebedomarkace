@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on a book
 - 🌱 I'm currently learning everything 🤣
 - 👯 I'm looking to collaborate with others
-- 🥅 2020 Goals: Contribute more to Open Source Projects
+- 🥅 2021 Goals: Contribute more to Open Source Projects
 - ⚡Fun fact: I love to draw and play guitar
 
 ### Connect with me:
